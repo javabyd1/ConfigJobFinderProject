@@ -7,4 +7,4 @@ spring:
     database-platform: org.hibernate.dialect.H2Dialect
 
 server.port: 8888
-info: client-service
+info: propeties
