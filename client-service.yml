@@ -1,3 +1,4 @@
+info.property: client-service
 spring:
   h2.console:
     enabled: true
@@ -7,4 +8,4 @@ spring:
     database-platform: org.hibernate.dialect.H2Dialect
 
 server.port: 8888
-info.property: client-service
+
